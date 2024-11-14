@@ -1,2 +1,2 @@
 # Hello_World
-Application for checking person skills for take the course
+Application for checking person skills for take the course.
